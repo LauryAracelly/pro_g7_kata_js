@@ -1,0 +1,142 @@
+[{
+    "peliculaNombre": "Back To The Future",
+    "anio": 1985,
+    "genero":[ "Ciencia Ficcion", "Comedia" ],
+    "sinopsis": "Una máquina del tiempo transporta a un adolescente a los años 50, cuando sus padres todavía estudiaban en la secundaria.",
+    "poster": "poster"
+  },
+  {
+    "peliculaNombre": "Requiem For a Dream",
+    "anio": 2000,
+    "genero":[ "Thriller", "Drama" ],
+    "sinopsis": "Una envejecida viuda se vuelve adicta a píldoras dietéticas mientras su hijo libra su propia batalla con estupefacientes",
+    "poster": "poster"
+  },
+  {
+    "peliculaNombre": "American Psycho",
+    "anio": 2000,
+    "genero":[ "Misterio", "Terror" ],
+    "sinopsis": "En la década de 1980, Patrick Bateman es un hombre exitoso y obsesionado por la competencia y por la perfección material, quien utiliza los más caros cosméticos masculinos, equipos de gimnasia, solárium y demás maquinaria estética para lograr un cuerpo atlético y bien acicalado, identificador material del éxito social.",
+    "poster": "poster"
+  },
+  {
+    "peliculaNombre": "Pulp Fiction",
+    "anio": 1994,
+    "genero":[ "Crimen", "Drama" ],
+    "sinopsis": "La vida de un boxeador, dos sicarios, la esposa de un gánster y dos bandidos se entrelaza en una historia de violencia y redención.",
+    "poster": "poster"
+  },
+  {
+    "peliculaNombre": "Inglorius Bastards",
+    "anio": 2009,
+    "genero":[ "Guerra", "Accion" ],
+    "sinopsis": "Durante la II Guerra Mundial, el teniente Aldo Raine planea asesinar a líderes nazis para provocar la caída del Tercer Reich. Los hombres de Raine, un grupo de soldados judíos, son conocidos por el enemigo como los bastardos y están dispuestos a todo con tal de lograr su objetivo.",
+    "poster": "poster"
+  },
+  {
+    "peliculaNombre": "Toy Story",
+    "anio": 1995,
+    "genero":[ "Animacion", "Aventura" ],
+    "sinopsis": "Woody, el juguete favorito de Andy, se siente amenazado por la inesperada llegada de Buzz Lightyear, el guardían del espacio.",
+    "poster": "poster"
+  },
+  {
+    "peliculaNombre": "Climax",
+    "anio": 2018,
+    "genero":[ "Terror", "Drama" ],
+    "sinopsis": "Jóvenes bailarines toman accidentalmente LCD mezclado con sangría y así su exultante ensayo se convierte en una pesadilla cuando uno a uno sienten las consecuencias de crisis psicodélica colectiva.",
+    "poster": "poster"
+  },
+  {
+    "peliculaNombre": "Fight Club",
+    "anio": 1999,
+    "genero":[ "Comedia Negra", "Drama" ],
+    "sinopsis": "Jóvenes bailarines toman accidentalmente LCD mezclado con sangría y así su exultante ensayo se convierte en una pesadilla cuando uno a uno sienten las consecuencias de crisis psicodélica colectiva.",
+    "poster": "poster"
+  },
+  {
+    "peliculaNombre": "The Truman Show",
+    "anio": 1998,
+    "genero":[ "Ciencia Ficcion", "Drama" ],
+    "sinopsis": "Jóvenes bailarines toman accidentalmente LCD mezclado con sangría y así su exultante ensayo se convierte en una pesadilla cuando uno a uno sienten las consecuencias de crisis psicodélica colectiva.",
+    "poster": "poster"
+  },
+  {
+    "peliculaNombre": "Akira",
+    "anio": 1988,
+    "genero":[ "Ciencia Ficcion", "Anime" ],
+    "sinopsis": "Un joven telépata deambula por las calles de Tokio al darse cuenta de que los poderes que posee son asombrosos.",
+    "poster": "poster"
+  },
+{
+  "peliculaNombre": "La Red Social",
+  "anio": 2010,
+  "genero": "Drama/Ficció Histórica",
+  "sinopsis": "Este biopic de Mark Zuckerberg, o lo que conocimos como la película de Facebook, arrancó como un extraño proyecto para su director, pero su alianza con Aaron Sorkin (premiado con el Óscar) dio como resultado una de las películas más fascinantes y relevantes de la década. Un auténtico clásico moderno.",
+  "poster": "john.doe@example.com"
+},
+{
+  "peliculaNombre": "Toy Story 3",
+  "anio": 2010,
+  "genero": "Animación",
+  "sinopsis": "Parecía que no tenía nada más que contar con Woody, Buzz y los demás juguetes vivientes de Pixar, sin embargo, el estudio de animación volvió a sorprendernos con una emocionante aventura que cerró la historia de Andy. Aunque después llegaría una cuarta entrega que abre otro camino, el impacto del final de 'Toy 3' sigue intacto en la memoria del público.",
+  "poster": "john.doe@example.com"
+},
+{
+  "peliculaNombre": "Los Vengadores",
+  "anio": 2010,
+  "genero": "Superhéroes",
+  "sinopsis": "Una de esas películas que suponen y un antes y un después en Hollywood. El sueño de todos los fans que, durante años, habían soñado con ver juntos en la gran pantalla a los personajes de Marvel, llegó de la mano de Whedon, particularmente inspirado con el guion. Sacó lo mejor de sus estrellas y recuperó la importancia del humor dentro del género de superhéroes, sin perder de vista la meta del blockbuster.",
+  "poster": "john.doe@example.com"
+},
+{
+  "peliculaNombre": "El Viento se Levanta",
+  "anio": 2013,
+  "genero": "Anime",
+  "sinopsis": "De arrebatadora belleza, todo lo que enmarca la acción de 'El viento se levanta' es de un virtuosismo visual sobrecogedor. Impregnada de una melaconlía abrumadora y de cierta carga de añoranza hacia el Japón que fue —un sentimiento éste que la preciosa partitura de Joe Hisaishi no hace sino poner de relieve una y otra vez—, es el sesgo del filme dedicado a seguir de cerca la obsesión de Horikoshi por lograr el aeroplano perfecto, sus ensoñaciones con un diseñador italiano y las virtuosas maneras en que Miyazaki nos hace partícipes de todo ello la que se alza como mejor baza de un filme que, no obstante, cojea en su vertiente dramática.",
+  "poster": "john.doe@example.com"
+},
+{
+  "peliculaNombre": "Inside Out",
+  "anio": 2015,
+  "genero": "Animación",
+  "sinopsis": "Una película maravillosa que sabe jugar con elementos emocionales con los que prácticamente cualquier espectador puede sentirse identificado con un talento inusual. Además, es divertidísima siempre que se lo propone -y es bastante a menudo-, te llega al corazón con una facilidad asombrosa y la parte de aventura también funciona a las mil maravillas, y además sabe equilibrarlo todo para que nadie quiera más o menos de nada.",
+  "poster": "john.doe@example.com"
+},
+{
+  "peliculaNombre": "Interestellar",
+  "anio": 2014,
+  "genero": "Drama",
+  "sinopsis": "Mezcla de astrofísica, odisea en un escenario preapocalíptico ambiental y melodrama familiar en bloques temporales, muestra a un Christopher Nolan mucho más capacitado y maduro para dar forma a su habitual ambición. Las visiones del cosmos son espectaculares, sus conceptos de tiempo y espacio son puro Sagan (aunque se equivoque en incluir a presión el tema del amor) y la resolución tiene el efecto emocional esperado.",
+  "poster": "john.doe@example.com"
+},
+{
+  "peliculaNombre": "La La Land",
+  "anio": 2016,
+  "genero": "Musical/Romance",
+  "sinopsis": "Sebastian, un pianista de jazz, y Mia, una aspirante a actriz, se enamoran locamente; pero la ambición desmedida que tienen por triunfar en sus respectivas carreras, en una ciudad como Los Ángeles, repleta de competencia y carente de piedad, pone en peligro su amor.",
+  "poster": "john.doe@example.com"
+},
+{
+  "peliculaNombre": "El hilo Invisible",
+  "anio": 2017,
+  "genero": "Romance/Drama",
+  "sinopsis": "El aspecto clasicista con el que se presenta ‘El hilo invisible’ muestra de frente a un Paul Thomas Anderson más contenido que en sus dos últimos trabajos, más experimentales y pesados, con ánimo de explorar las vías de expresión abiertas en ‘Pozos de ambición’ (There Will Be Blood) pero sin la balanza calibrada como él es capaz. Con esta nueva exploración psicológica de un personaje obsesivo compulsivo ha logrado el que podría ser su trabajo más equilibrado.",
+  "poster": "john.doe@example.com"
+},
+{
+  "peliculaNombre": "Erase una vez en Hollywood",
+  "anio": 2019,
+  "genero": "Comedia Dramática",
+  "sinopsis": "Tarantino pone en pie así un juego de espejos en algunos puntos aún más sofisticado que el de 'Malditos bastardos', y alcanza un equilibrio único entre su disección de un Hollywood que es casi un estado mental (ese drive-in cerca de donde vive Booth y desde donde se oye la sintonía de los anuncios de trailers que popularizó 'Grindhouse'), sus propios rasgos de autor (con escenas estiradas hasta el paroxismo, como el rodaje del western o la conversación de Booth con su perro) y los sinceros homenajes con sentido y sensibilidad (de Bruce Lee a Bruce Dern). Una auténtica fiesta, pero también una reflexión sobre el legado de la cultura pop. Puro Tarantino",
+  "poster": "john.doe@example.com"
+},
+{
+  "peliculaNombre": "El Padrino",
+  "anio": 1972,
+  "genero": "Crimen",
+  "sinopsis": "El padrino es una película estadounidense de 1972 dirigida por Francis Ford Coppola. La película fue producida por Albert S. Ruddy, de la compañía Paramount Pictures. Está basada en la novela homónima, de Mario Puzo, quien adaptó el guion junto a Coppola y Robert Towne, este último sin ser acreditado.​",
+  "poster": "john.doe@example.com"
+}
+]
+
