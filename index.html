@@ -3,29 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">   
     <title>🎥Movies🎬</title>
     <link rel="stylesheet" href="style.css" >
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+<!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
 
 </head>
 <body>
 
-    <h1>Que Quieres Ver? 🎬</h1>
-    
+    <h1>🎥+PixelFLIX 🎬</h1>
+    <p id="respuestaNickname"></p>
+    <h2>📺Que Quieres Ver?📼</h1>
+
     <p>Patrocinado por +PixeLoad <a href="https://www.instagram.com/pluspixeload/">+Pixeload</a></p>
     <h3>Nombre</h3>
     <form>
-        <input type="search" placeholder="Search">
+        <input type="search" placeholder="Search" id= "buscador">
+        <button class="BotonBuscar" id="boton">Buscar</button>
     </form>
 
     <h3>Genero</h3>
-    <form id="demo-2">
-       <div aling="center">
-        <input type="search" placeholder="Search" class="form-control">
-        </div>
-        <ul class="list-group" id="result"></ul>
-    </form>
+    <div class="input-group input-group-lg">
+        <span class="input-group-text" id="inputGroup-sizing-lg">PelisDevF</span>
+        <input type="text" class="form-control2" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg">
+        <button class="BotonBuscar" id="boton">Buscar</button>
+      </div>
 
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-p34f1UUtsS3wqzfto5wAAmdvj+osOnFyQFpp4Ua3gs/ZVWx6oOypYoCJhGGScy+8" crossorigin="anonymous"></script>
 <script src="script.js"></script>
 </body>
 </html>

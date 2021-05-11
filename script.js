@@ -17,11 +17,42 @@ fetch(JSON_LOCAL)
   })
 
 
+  let promptPelis = 'peliculaNombre';
+  let gen = 'genero';
 
-  $(document).ready(function(){
-   $('#search').keyup(function(){
-   $('result').html('');
-   var searchField =('#search').val();
-   var expression = 
-});
-  });
+  if (promptPelis == 'peliculaNombre') {
+      alert('Bienvenido a +PixelFLIX aqui encontraras las mejores peliculas en JSON LOCAL');
+  } else  {
+      alert ('Deja algun Valor');
+  }
+
+    var person = prompt("Queremos saber tu Nickname", "Nickname");
+    if (person != null) {
+      document.getElementById("respuestaNickname").innerHTML =
+      "Hello " + person + "! acabas de entrar a la mejor APP en DevF totalmente gratis ";
+    }
+  
+  
+
+  
+
+
+    
+
+ //console.log();
+
+
+ /* const buscador = document.querySelector('#buscador');
+  const boton = document.querySelector('#boton');
+
+  boton.addEventListener('click',filtrar);
+
+  const filtrar = ()=>{
+   // console.log(buscador.value);
+   const texto = buscador.value();
+   for (let pelicula of peliculas){
+  let nombre = pelicula.peliculaNombre();
+  
+   }
+  }
+*/
